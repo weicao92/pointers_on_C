@@ -5,6 +5,7 @@
 register int 
 没有必要申请sum，**就地**的指针运算
 记住运用指针间接访问而不是下标
+!!! 复习～～
 */
 int pair_to_index(int x, int y, int col)
 {
